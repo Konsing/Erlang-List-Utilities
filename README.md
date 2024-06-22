@@ -24,5 +24,5 @@ A collection of utility functions for list manipulation implemented in Erlang.
 Each function can be called by importing the corresponding module into your Erlang project.
 
 ```erlang
--module(hw5).
+-module(list_utilities).
 -export([myremoveduplicates/1, myintersection/2, mylast/1, myreverse/1, myreplaceall/3]).
